@@ -11,3 +11,4 @@ I'm nico233, a junior student 🥳
 + ⚡ Implementing my own [tinyrendering](https://github.com/00nico00/tinyrenderer)
 + 🚚 Also learning unity at the same time
 + 🧐 Learn more via [my blog](http://nico233.cn/)
++ 🏙️ ex [Amazing Seasun](https://www.xishanju.com/), now in [NetEase](https://game.campus.163.com/)
