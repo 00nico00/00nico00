@@ -7,6 +7,6 @@ I'm nico233, a junior student 🥳
 
 # About me 👇
 + I am a game client development engineer.
-+ 🏙️ ex [Amazing Seasun](https://www.xishanju.com/) & [NetEase](https://game.campus.163.com/), now in [SGRA](https://sgrastudio.com/) (which is an independent studio under Tencent.)
++ 🏙️ ex [Amazing Seasun](https://www.xishanju.com/) & [NetEase](https://game.163.com/), now in [SGRA](https://sgrastudio.com/) (which is an independent studio under Tencent.)
 + My current tech stack includes Unity, Python, C++, and C#. My main responsibilities focus on gameplay development.
 + 🧐 Learn more via [my blog](http://nico233.cn/)
